@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sensor_description_heart_rate">Current heart rate from Wear OS device</string>
+</resources>
